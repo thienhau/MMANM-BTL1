@@ -1,0 +1,19 @@
+BÀI TẬP LỚN MÔN MẬT MÃ VÀ AN NINH MẠNG (CO3069) - HỌC KỲ 261
+TRƯỜNG ĐẠI HỌC BÁCH KHOA - ĐHQG TP. HỒ CHÍ MINH
+KHOA KHOA HỌC VÀ KỸ THUẬT MÁY TÍNH
+
+ĐỀ TÀI 1.1: HỆ THỐNG TRUYỀN NHẬN TIN NHẮN VÀ TỆP TIN MÃ HÓA ĐẦU CUỐI (E2EE) QUA GIAO THỨC TCP SOCKETS
+DANH SÁCH THÀNH VIÊN NHÓM:
+1. Sinh viên 1: MSSV 2213444
+2. Sinh viên 2: MSSV 2310930
+3. Sinh viên 3: MSSV 2311523
+4. Sinh viên 4: MSSV 2333464
+
+---
+NỘI DUNG TỆP KIỂM THỬ TRUYỀN FILE:
+Đây là tập tin văn bản mẫu (sample_test.txt) được sử dụng để kiểm tra tính năng truyền tập tin mã hóa đầu cuối E2EE.
+Tập tin sẽ được cắt thành từng khối 64KB (Chunking), mã hóa AES-256-GCM từng khối, truyền qua Relay Server và được phía người nhận ghép lại hoàn chỉnh.
+Mã băm SHA-256 Checksum sẽ được tính toán ở cả 2 đầu truyền và nhận để chứng minh tính toàn vẹn 100%.
+---
+END OF FILE
+

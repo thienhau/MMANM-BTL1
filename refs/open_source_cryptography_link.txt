@@ -1,0 +1,27 @@
+======================================================================
+THÔNG TIN MÃ NGUỒN MỞ THƯ VIỆN THAM KHẢO
+Dự án: pyca/cryptography (Phiên bản v41.0.0+)
+Đơn vị phát triển: Python Cryptographic Authority (PyCA)
+======================================================================
+
+1. Kho lưu trữ chính thức trên GitHub:
+   https://github.com/pyca/cryptography
+
+2. Trang chủ và Tài liệu hướng dẫn chính thức:
+   https://cryptography.io/en/latest/
+
+3. Đường dẫn tải trực tiếp mã nguồn bản phát hành (Release v41.0.0 ZIP):
+   https://github.com/pyca/cryptography/archive/refs/tags/41.0.0.zip
+
+4. Lệnh nhân bản kho mã nguồn (Git Clone):
+   git clone --branch 41.0.0 https://github.com/pyca/cryptography.git
+
+5. Lệnh cài đặt nhanh qua trình quản lý gói Python:
+   pip install cryptography>=41.0.0
+
+6. Giấy phép bản quyền mã nguồn mở (Open Source License):
+   Dự án được phân phối dưới hình thức bản quyền kép:
+   - Apache Software License, Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0)
+   - BSD 3-Clause License (https://opensource.org/licenses/BSD-3-Clause)
+======================================================================
+
